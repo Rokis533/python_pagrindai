@@ -31,6 +31,6 @@ print(mano_prisijungimas)
 print(darbinis_folderis)
 
 hello()
+hello()
 
-# print(constants.mano_prisijungimas)
 
