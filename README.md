@@ -1,4 +1,4 @@
-Tai yra AIUA5 grupes darbai
+Tai yra AIU5 grupes darbai
 
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
