@@ -1,0 +1,11 @@
+- Kortos nuo 9 iki A (24 kortos)
+- 2 žaidejai
+- 6 kortos kiekvienam
+- kozeriai
+- daugiausiai 6 kortos išmestos
+- jei žaidejas neturi kaip apsiginti - privalo imti kortas
+- jei žaidejas raundo pradžioje neturi 6 kortų - privalo traukti iš kaladės
+- laimi tas kuris pirmas atsikratė visų kortų (jei kaladė tuščia)
+- žaidejas ginasi didesnia to pačio tipo korta arba kozeriu, jei kozeris turi buti didesnis
+- kai apsigina pradedantysis pasikeičia
+- puolantis deda pasirnkta korta (kolkas nera dametimo)
